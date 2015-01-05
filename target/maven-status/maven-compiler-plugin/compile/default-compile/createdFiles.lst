@@ -1,0 +1,4 @@
+doyle\domain\Product.class
+doyle\service\SimpleProductManager.class
+doyle\hello\InventoryController.class
+doyle\service\ProductManager.class
